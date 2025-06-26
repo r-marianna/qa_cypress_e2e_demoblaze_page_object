@@ -1,6 +1,6 @@
 import OrderAndCartPageObject from '../support/pages/cartForm.pageObject';
-import HomeAndCataloguePageObject
-  from '../support/pages/homeCatalogue.pageObject';
+// eslint-disable-next-line
+import HomeAndCataloguePageObject from '../support/pages/homeCatalogue.pageObject';
 import { faker } from '@faker-js/faker';
 /// <reference types='cypress' />
 

@@ -34,7 +34,7 @@ class OrderAndCartPageObject extends PageObject {
   }
 
   get okBtn() {
-    return cy.contains('.btn ', 'OK');
+    return cy.contains('.btn', 'OK');
   }
 
   typeName(name) {
